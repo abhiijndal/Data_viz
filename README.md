@@ -8,3 +8,4 @@
 
 ![image name](plot4.png)
 
+![image name](newplot.png)
